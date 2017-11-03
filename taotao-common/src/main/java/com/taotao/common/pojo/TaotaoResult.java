@@ -147,4 +147,8 @@ public class TaotaoResult {
         }
     }
 
+    public void test(){
+
+    }
+
 }
