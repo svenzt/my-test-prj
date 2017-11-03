@@ -148,7 +148,7 @@ public class TaotaoResult {
     }
 
     public void test(){
-
+        String test = "";
     }
 
 }
